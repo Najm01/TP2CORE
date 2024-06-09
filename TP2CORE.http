@@ -1,0 +1,6 @@
+@TP2CORE_HostAddress = http://localhost:5230
+
+GET {{TP2CORE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
